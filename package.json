@@ -1,0 +1,23 @@
+{
+  "name": "cypress-learn-automation",
+  "version": "1.0.0",
+  "description": "Automation for POC",
+  "main": "index.js",
+  "dependencies": {
+    "cypress": "^5.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ManjunathPrabhakar/cypress-learn-automation.git"
+  },
+  "author": "Manjunath Prabhakar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ManjunathPrabhakar/cypress-learn-automation/issues"
+  },
+  "homepage": "https://github.com/ManjunathPrabhakar/cypress-learn-automation#readme"
+}
