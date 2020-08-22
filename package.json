@@ -4,9 +4,12 @@
   "description": "Automation for POC",
   "main": "index.js",
   "dependencies": {
-    "cypress": "^5.0.0"
+    "cypress": "^5.0.0",
+    "xpath-to-css": "^1.0.5"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "cypress-xpath": "^1.6.0"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
